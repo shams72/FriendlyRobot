@@ -6,7 +6,7 @@
 ## Design Details
 
 - **Robot Body**: The robot's body is created by manipulating a cube, with each part of the robot designed and updated using a vertex shader.
-- **Limb Rotation**: The arms and legs of the robot rotate using a rotation matrix in OpenGL (`rotateAroundPoint`).
+- **Limb Rotation**: The arms and legs of the robot rotate using a rotation matrix in OpenGL (`"rotateAroundPoint"`).
 
 ## How to Interact with Friendly Robot
 
