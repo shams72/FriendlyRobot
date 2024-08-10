@@ -1,0 +1,6 @@
+An OpenGL error occured at file: "C:/Users/Shams/Desktop/NE3655~1/VISUAL~1/OPENGL~1/src/FRAMEW~1/Assets/ShaderProgram.h", line: 26:
+invalid operation
+An OpenGL error occured at file: "C:\Users\Shams\Desktop\prak-2\prak-2\visual-computing-prak2-updated\OpenGL_Praktikum\src\Framework\Assets\ShaderProgram.cpp", line: 47:
+invalid operation
+An OpenGL error occured at file: "C:\Users\Shams\Desktop\prak-2\prak-2\visual-computing-prak2-updated\OpenGL_Praktikum\src\Framework\Assets\ShaderProgram.cpp", line: 47:
+invalid operation
